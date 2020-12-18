@@ -14,7 +14,7 @@ body {
   font-size: 16px;
   font-family: $font-pri;
   color: #000;
-  background: url(../img/BG.jpg);
+  background: url(../img/bg-main-1.jpg);
   content: "";
   height: 100%;
   right: 0;
@@ -27,10 +27,42 @@ body {
   // background-color: #044E8D;
 }
 
+.test {
+  background-color: red;
+}
+
 a {
   color: #000;
   &:hover {
     color: #000;
+  }
+}
+
+.sign-in-btn {
+  border-radius: 25px;
+  padding: 8px;
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  color: #000;
+  box-shadow: 0 0 6px #ffffff;
+  width: 110px;
+  &:hover {
+    background: #000;
+    color: #fff;
+  }
+}
+
+.login-btn {
+  border-radius: 25px;
+  padding: 8px;
+  background: #000;
+  border: 1px solid #ffffff;
+  color: #fff;
+  box-shadow: 0 0 6px #ffffff;
+  width: 110px;
+  &:hover {
+    background: #fff;
+    color: #000 !important;
   }
 }
 
@@ -176,6 +208,16 @@ a {
   opacity: 0;
 }
 
+.game-box {
+  width: 20%;
+  padding: 10px;
+}
+
+.section-live-22 {
+  overflow-y: scroll;
+  height: 100vh;
+}
+
 @media (min-width: 481px) and (max-width: 767px) {
   /* CSS */
   #fade img {
@@ -194,6 +236,27 @@ a {
   #fade img {
     width: 100%;
     opacity: 0;
+  }
+
+  .img-live22-mobile {
+    width: 100%;
+  }
+
+  .sign-in-btn {
+    width: 50%;
+    margin: 10px 0;
+    margin: 0px 0 10px 0px;
+    background-color: #dedede9c;
+  }
+
+  .login-btn {
+    width: 50%;
+    background-color: #000;
+  }
+
+  .game-box {
+    width: 30%;
+    padding: 10px;
   }
 }
 
