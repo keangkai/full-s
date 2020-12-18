@@ -33,48 +33,76 @@
 
 
     <!-- Main-Nav -->
-
-    <div class="d-lg-none d-flex justify-content-between align-items-center px-3"
-        style="background-color: rgba(0, 0, 0, 0.8);">
-        <img src="assets/img/logo.png" alt="logo" width="20%">
-        <h4 class="text-white">KINGLOT</h4>
-    </div>
-
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top d-none d-lg-flex" id="mainNav"
-        style="background-color: rgba(0, 0, 0, 0.8);">
+    <nav class="main-nav">
         <div class="container">
-            <div class="d-flex justify-content-between">
-                <!-- <div id="header"> -->
-                <img id="header" src="./assets/img/logo.png" alt="logo" width="90px" />
-                <!-- </div> -->
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
-                    data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
-                    aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars"></i>
-                </button>
-            </div>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="index.php">หน้าแรก</a>
+            <div class="nav-item w-100 d-flex align-items-center justify-content-end rela-wrap">
+                <figure class="main-logo">
+                    <a href="https://www.live22slot.com"><img
+                            src="https://www.live22slot.com/wp-content/themes/theme-activity-one/assets/img/main-logo.png"
+                            alt=""></a>
+                </figure>
+                <ul id="menu-main-menu-1" class="main-menu">
+                    <li
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-264 current_page_item menu-item-492">
+                        <a href="#" aria-current="page">หน้าแรก</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="pay_rate.php">อัตราการจ่าย</a>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490">
+                        <a href="https://www.live22slot.com/creditfree/">เครดิตฟรี</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="rule.php">กฏกติกาและข้อบังคับ</a>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286">
+                        <a href="https://www.live22slot.com/promotion/">โปรโมชั่น</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger login-btn" href="#contact"><i class="fas fa-user"></i>
-                            สมัครสมาชิก</a>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-278">
+                        <a href="https://www.live22slot.com/affiliate/">Affiliate</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282">
+                        <a href="https://www.live22slot.com/download/">ดาวน์โหลด</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283">
+                        <a
+                            href="https://www.live22slot.com/%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2-live22-php/">ทางเข้า
+                            Live22</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281">
+                        <a href="https://www.live22slot.com/guide/">คู่มือการใช้งาน</a>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-288">
+                        <a target="_blank" rel="noopener noreferrer"
+                            href="https://live22.allbetasia.com/register">สมัครสมาชิก</a>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289">
+                        <a target="_blank" rel="noopener noreferrer"
+                            href="https://live22.allbetasia.com/login">เข้าสู่ระบบ</a>
                     </li>
                 </ul>
+                <div class="item-mobile">
+                    <div class="group-bttn-action w-100 d-flex" style="padding-right:15px;">
+                        <div class="group-item-bttn w-50">
+                            <figure class="thumb" style="padding:10px; padding-right:5px;padding-left:0px;">
+                                <a href="https://live22.allbetasia.com/login" target="_blank">
+                                    <img src="https://www.live22slot.com/wp-content/themes/theme-activity-one/assets/img/bttn-pri-wrap.png"
+                                        alt="">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="group-item-bttn w-50">
+                            <figure class="thumb" style="padding:10px;  padding-right:0px; padding-left:5px;">
+                                <a href="https://live22.allbetasia.com/register" target="_blank"><img
+                                        src="https://www.live22slot.com/wp-content/themes/theme-activity-one/assets/img/bttn-sec-wrap.png"
+                                        alt=""></a>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-mobile">
+                    <div class="open-menu-wrap">
+                        <i class="fas fa-bars"></i>
+                    </div>
+                </div>
             </div>
         </div>
     </nav>
+    <!-- End Main-Nav -->
 
 
 

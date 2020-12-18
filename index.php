@@ -3104,10 +3104,10 @@ include 'header.php';
         <!-- End Lottery -->
     </div>
 
+</div>
 
 
-
-    <?php 
+<?php 
 /* Footer : Main Footer */
 include 'footer.php';
 ?>
