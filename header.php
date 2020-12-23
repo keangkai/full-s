@@ -6,28 +6,6 @@
 <!DOCTYPE html>
 <html lang="th-TH">
 
-<!-- <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>กระเป๋า , กระเป๋าแบรนด์เนม | Bagpgshop.xyz</title>
-    <meta name="keywords" content="กระเป๋า, กระเป๋าผู้หญิง, กระเป๋าแฟชั่น, 2020, กระเป๋าสุดฮิต" />
-    <meta name="description" content="กระเป๋า กระเป๋าแฟชั่น 2020 กระเป๋า outlet กระเป๋าแบรนด์ บน Bagpgshop" />
-   
-    <meta charset="utf-8">
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-    
-    <link rel="stylesheet" href="assets/css/style.min.css">
-    <link rel="stylesheet" href="assets/css/header.css">
-
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-</head> -->
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -36,40 +14,7 @@
 
     <title>live22 สล็อตออนไลน์ แจกเครดิตฟรี 1,000 สมัครสมาชิก live22 รับโบนัสฟรี</title>
 
-    <script type="application/ld+json" class="yoast-schema-graph">
-    {
-        "@context": "https://schema.org",
-        "@graph": [{
-            "@type": "WebSite",
-            "@id": "https://www.live22slot.com/#website",
-            "url": "https://www.live22slot.com/",
-            "name": "\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e41\u0e08\u0e01\u0e40\u0e04\u0e23\u0e14\u0e34\u0e15",
-            "description": "\u0e41\u0e08\u0e01\u0e40\u0e04\u0e23\u0e14\u0e34\u0e15\u0e1f\u0e23\u0e35 300 \u0e1a\u0e32\u0e17",
-            "potentialAction": [{
-                "@type": "SearchAction",
-                "target": "https://www.live22slot.com/?s={search_term_string}",
-                "query-input": "required name=search_term_string"
-            }],
-            "inLanguage": "th"
-        }, {
-            "@type": "WebPage",
-            "@id": "https://www.live22slot.com/#webpage",
-            "url": "https://www.live22slot.com/",
-            "name": "live22 \u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e41\u0e08\u0e01\u0e40\u0e04\u0e23\u0e14\u0e34\u0e15\u0e1f\u0e23\u0e35 1,000 \u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01 live22 \u0e23\u0e31\u0e1a\u0e42\u0e1a\u0e19\u0e31\u0e2a\u0e1f\u0e23\u0e35",
-            "isPartOf": {
-                "@id": "https://www.live22slot.com/#website"
-            },
-            "datePublished": "2020-11-02T07:47:59+00:00",
-            "dateModified": "2020-12-07T05:51:50+00:00",
-            "description": "\u0e2a\u0e25\u0e47\u0e2d\u0e15 live22 \u0e40\u0e01\u0e21\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e17\u0e35\u0e48\u0e21\u0e35\u0e20\u0e32\u0e1e\u0e01\u0e23\u0e32\u0e1f\u0e1f\u0e34\u0e04\u0e2a\u0e27\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 \u0e15\u0e31\u0e27\u0e41\u0e17\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23\u0e15\u0e49\u0e2d\u0e07 live22slot ,live22th \u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01 live22 \u0e14\u0e32\u0e27\u0e4c\u0e42\u0e2b\u0e25\u0e14\u0e40\u0e01\u0e21 live22",
-            "inLanguage": "th",
-            "potentialAction": [{
-                "@type": "ReadAction",
-                "target": ["https://www.live22slot.com/"]
-            }]
-        }]
-    }
-    </script>
+
     <link rel='dns-prefetch' href='//ajax.googleapis.com' />
     <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
     <link rel="alternate" type="application/rss+xml" title="กิจกรรมแจกเครดิต &raquo; ฟีด"

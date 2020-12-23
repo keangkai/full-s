@@ -4,7 +4,8 @@
 include 'header.php';
 ?>
 
-<section class="main-slide pd-section pt-5">
+<!-- <section class="main-slide pd-section pt-5"> -->
+<section class="promote-section py-5">
     <div class="item-pc d-none d-lg-block">
         <div class="container">
             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
@@ -111,6 +112,8 @@ include 'header.php';
         </div>
     </div>
 </section>
+
+<!-- </section> -->
 
 <div class="container mt-5 ">
     <section class="game-item">
@@ -500,6 +503,59 @@ include 'header.php';
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
     </div>
 </div>
+
+<!--  -->
+<section class="about-game pd-section rela-wrap">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-5">
+                <div class="item-pc">
+                    <figure class="thumb">
+                        <img src="https://www.live22slot.com/wp-content/uploads/2020/11/about1.png" alt="">
+                    </figure>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <div class="caption">
+                    <h1 class="fc-gold">LIVE22</h1>
+                    <h3>สมัครสมาชิก ฝาก ถอน อัตโนมัติ <strong class="fc-gold">Live22</strong> สล็อตออนไลน์</h3>
+                    <p><strong>Live22</strong> Auto ระบบเติม ถอน เครดิต อัตโนมัติ โดยไม่ต้องผ่าน Call Center
+                        พบกับประสบการณ์ใหม่ในการสมัครสมาชิก ฝาก ถอน เครดิต ด้วยตัวเองกับระบบอัตโนมัติที่ รวดเร็ว ปลอดภัย
+                        ระบบสมบูรณ์ 100% เจ้าแรกแห่งประเทศไทย พร้อมให้บริการแล้ว</p>
+                    <p>&nbsp;</p>
+                    <p>หากต้องสอบถามรายละเอียดข้อมูลเพิ่มเติมติดต่อเราผ่านช่องทางตามนี้ตลอด 24 ช.ม.</p>
+                    <ul class="menu-box-contact">
+                        <li>Line id : <span class="fc-gold">@abagroup2</span></li>
+                        <li>Hot line : <span class="fc-gold">000 000 0000</span></li>
+                    </ul>
+                </div>
+                <div class="item-pc">
+                    <ul class="bttn-group-action text-left">
+                        <li><a href="https://live22.allbetasia.com/login" target="_blank"><img
+                                    src="https://www.live22slot.com/wp-content/themes/theme-activity-one/assets/img/btn-11.png"
+                                    alt=""></a>
+                        </li>
+                        <li><a href="https://live22.allbetasia.com/register" target="_blank"><img
+                                    src="https://www.live22slot.com/wp-content/themes/theme-activity-one/assets/img/btn-22.png"
+                                    alt=""></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="caption pt-3">
+                    <h1><span class="fc-gold">LIVE22</span> เกมสล็อตออนไลน์</h1>
+                    <div class="desc">Live22slot ตัวแทนอย่างเป็นทางการของ Live22
+                        เกมสล็อตออนไลน์ที่มีภาพสวยสามารถเล่นได้ทุกแพลตฟอร์ม ไม่ว่าจะเล่นผ่านบราวเซอร์ Chrome , Firefox ,
+                        Safari อื่นๆ เป็นต้น สามารถติดตั้งโปรแกรมบนคอมพิวเตอร์บนระบบปฏิบัติการ IOS หรือ Windows
+                        และสามารถเล่นได้สะดวกทุกที่บนมือถือที่เป็นสมาร์ทโฟนบน Iphone , Ipad และ Andriod ซึ่งเกม live22
+                        ให้ความสนุกเพลิดเพลินทุกระบบ มีภาพสวยและมีการแจกรางวัลแจ็คพ็อตใหญ่
+                        สำหรับผู้เล่นต้องการลุ้นเงินรางวัลใหญ่ มาร่วมเปิดประสบการณ์ใหม่ๆกับเราที่ live22slot.com</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <?php 
